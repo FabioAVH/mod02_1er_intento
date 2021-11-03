@@ -1,0 +1,1 @@
+Aca van a ir mis comandos de inicio
