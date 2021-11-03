@@ -6,4 +6,14 @@ def sumatodos(limit):
         result += i
     return result
 
-print (sumatodos(100))
+def sumaTodoslosCuadrados(limit):
+    resultado=0
+    for i in range(limit+1):
+        resultado += i*i
+    return resultado
+
+print (sumatodos(100)) 
+print(sumaTodoslosCuadrados(3))
+
+
+    
