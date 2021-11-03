@@ -1,1 +1,1 @@
-Aca van a ir mis comandos de inicio
+Aca van a ir mis comandos de inicio, por Dios!
