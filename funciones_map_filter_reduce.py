@@ -31,3 +31,8 @@ sumatorioDobles = reduce(lambda x,y : x+y*2, lista)
 
 print(list(listaPares))
 print(suma100)
+
+#para copia (clonar) una lista
+l = lista[:]
+l.insert(0,10) #inserta en la posicion 0, el numero 10
+# esto se 
